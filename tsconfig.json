@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "strict": true,
+    "module": "commonjs",
+    "target": "ES2021",
+    "skipLibCheck": true,
+    "incremental": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
+    "rootDir": "."
+  },
+
+  "exclude": ["./node_modules"]
+}
